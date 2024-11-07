@@ -63,7 +63,7 @@ function check(selectedOption) {
     // เปลี่ยนคำถามหลังจากตอบเสร็จ
     setTimeout(() => {
        getstart(); // สุ่มคำถามใหม่
-    }, 500);
+    }, 300);
     
 }
 let intscore=parseInt(score)
